@@ -1,19 +1,19 @@
 # Pandas-Challenge
 PyCitySchools Analysis
 Project Overview
-The PyCitySchools Analysis project aims to provide insights into the performance of various schools within a fictional district using Python and the Pandas library. This project utilizes data analysis techniques to evaluate and visualize the relationships between school spending, school size, school type, and academic performance. By analyzing this data, we aim to identify trends and correlations that can help in understanding the factors contributing to school success.
+The PyCitySchools Analysis project aims to provide insights into the performance of various schools within a fictional district using Python and the Pandas library. This project utilizes data analysis techniques to evaluate and visualize the relationships between school spending, school size, school type, and academic performance. By analyzing this data (and with the help of chatgpt to help clean up the code), I identified trends and correlations that can help in understanding the factors contributing to school success.
 
-Objectives
+Objectives: 
 Data Extraction and Cleaning:
 
 Import and inspect data from multiple sources to ensure accuracy and completeness.
 Clean and preprocess the data for analysis.
-Data Analysis:
 
+Data Analysis:
 Perform descriptive statistics to summarize key metrics.
 Analyze school performance based on various factors such as budget, size, and type.
-Visualization:
 
+Visualization:
 Create visualizations to illustrate the findings and trends.
 Use these visualizations to communicate insights effectively.
 Key Insights
